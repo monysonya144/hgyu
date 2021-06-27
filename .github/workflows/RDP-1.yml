@@ -1,4 +1,4 @@
-name: CI
+name: BU4LYF
 
 on: workflow_dispatch
 
